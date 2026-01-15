@@ -8,11 +8,10 @@
 
 ### 🧐 About Me
 
-- 🔭 I’m currently a **BS Computer Science Student **.
+- 🔭 I’m currently a **BS Computer Science Student**.
 - 🌱 I’m currently contributing to **FOSSology (Linux Foundation Project)**.
 - 👯 I’m looking to collaborate on **Open Source Projects & C++ tools**.
 - 💬 Ask me about **Linux, Git, and Open Source**.
-- ⚡ Fun fact: I made my first open-source contribution while learning GitHub!
 
 ---
 
@@ -26,21 +25,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 My Activity
 
-### 🏆 My Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sumamasonia&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumamasonia&theme=radical&hide_border=true" height="180" />
 </div>
 
----
-
-### 📊 My Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumamasonia&show_icons=true&theme=radical&hide_border=true" height="160" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumamasonia&theme=radical&hide_border=true" height="160" />
-</div>
 ---
 
 ### 📫 Connect with Me
