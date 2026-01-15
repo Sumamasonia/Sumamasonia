@@ -28,16 +28,19 @@
 
 ### 📊 GitHub Stats
 
+### 🏆 My Achievements
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumamasonia&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumamasonia&layout=compact&theme=radical" height="150" alt="languages graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sumamasonia&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumamasonia&theme=radical" alt="streak stats" />
-</div>
+---
 
+### 📊 My Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumamasonia&show_icons=true&theme=radical&hide_border=true" height="160" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumamasonia&theme=radical&hide_border=true" height="160" />
+</div>
 ---
 
 ### 📫 Connect with Me
